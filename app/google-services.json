@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782113732429",
+    "firebase_url": "https://sistem-pakar-f27db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sistem-pakar-f27db",
+    "storage_bucket": "sistem-pakar-f27db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782113732429:android:ac7e726034c360cf232904",
+        "android_client_info": {
+          "package_name": "com.example.sistempakarikannila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782113732429-7cl3omrhnj5gghfan42u5l82100cqqi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFr0qbgE26YQEYWiCdbfIbrAHNG8CKT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782113732429-7cl3omrhnj5gghfan42u5l82100cqqi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sistem Pakar Ikan Nila</string>
+    <string name="btn_mulai_diagnosa">button untuk memulai diagnosa</string>
+</resources>
